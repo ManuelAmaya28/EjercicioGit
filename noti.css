@@ -1,0 +1,40 @@
+*{ font-family: 'Franklin Gothic Medium';}
+.barranavegacion{
+
+    display: flex;
+    justify-content: center;
+    
+    }
+    
+    .elementoNavegacion{
+        font-size: larger;
+        margin-left: 40px;
+    }
+    
+div{
+    margin: auto;
+    padding: 0.5em 2em;
+    background-color: #0099FF;
+    border: 2px solid black;
+    border-radius: 80px;
+}
+
+h1{
+    margin: auto;
+    padding: 0.5em 2em;
+    background-color:#FF9900;
+    border: 1px solid black;
+    border-radius: 50px;
+    text-align: center;
+}
+article{
+    margin: auto;
+    padding: 0.5em 2em;
+    border-radius: 60%;
+    background-color: lightblue ;
+    }
+    p{
+        width: 70%;
+        text-align: center;
+        float: right;
+    }
